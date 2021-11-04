@@ -94,7 +94,12 @@ nav ul li a:hover{
   
  
   .title {
-    color: grey;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+  }
+  .item{
+    color: white;
   }
   
   .button {
