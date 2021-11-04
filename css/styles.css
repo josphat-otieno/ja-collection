@@ -104,9 +104,7 @@
 }
 
 @media only screen and (max-width: 420px) {
-    /* .slider {
-        padding: 0;
-   } */
+ 
     .slide {
         padding: 16px 10px;
    }
@@ -116,9 +114,8 @@
 }
 
 .about{
-    /* background-color:gray; */
+
     color: white;
-    /* margin-bottom: 20px; */
 }
 .all-contact{
     display: flex;
