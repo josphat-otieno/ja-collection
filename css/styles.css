@@ -133,13 +133,13 @@
 .about {
 
     color: white;
-    background-image: url('/images/pexels-photo-994517.jpeg');
+    background-image: url(/images/pexels-photo-994517.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .header {
-    background: url('/images/italian-bag-fashion-shop-italy-18176484.jpg');
+    background: url(/images/italian-bag-fashion-shop-italy-18176484.jpg);
 
 }
 
@@ -305,5 +305,5 @@ nav ul li a:hover {
 }
 
 .collections {
-    background: url('/images/black-worn-metal-plate-steel-texture-dark-aluminum-background-black-worn-metal-plate-steel-texture-dark-aluminum-background-154179243.jpg');
+    background: url(/images/black-worn-metal-plate-steel-texture-dark-aluminum-background-black-worn-metal-plate-steel-texture-dark-aluminum-background-154179243.jpg);
 }
